@@ -1,0 +1,74 @@
+.container{
+  display: flex;
+  gap: 10px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Profile{
+  height: 200px;
+  width: 200px;
+  border: 2px solid;
+  border-color: brown;
+  border-radius: 50%;
+  
+}
+
+p>.two{
+  text-align: justify;
+}
+
+h1,h2 {
+  color: darkblue;
+}
+h3{
+  color: brown;
+}
+h4{
+  color: green;
+}
+h5{
+  color: blueviolet;
+}
+
+.one{
+  background-color: darkblue;
+  color: gold;
+  padding: 1%;
+}
+
+.two{
+  background-color: antiquewhite;
+  padding: 1%;
+}
+
+.first-div{
+  color: white;
+}
+
+.contact{
+  display: flex;
+  gap: 10px;
+  color: darkmagenta;
+  font-weight: bold;
+  margin-left: -0.80%;
+}
+
+table{
+  width: 100%;
+}
+
+.links{
+  width: 50%;
+}
+
+
+.right{
+  text-align: right;
+  color: crimson;
+  font-weight: bold;
+}
+
+.bold{
+  color: blue;
+  font-weight: bold;
+}
